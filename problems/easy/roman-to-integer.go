@@ -1,4 +1,4 @@
-package problems
+package easy
 
 func RomanToInt(s string) int {
 	if len(s) == 0 {
