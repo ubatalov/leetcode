@@ -9,7 +9,8 @@ func main() {
 	// 0.18750
 	//fmt.Println(medium.ChampagneTower(25, 6, 1))
 
-	fmt.Println(easy.MinimumSum(2932))
+	fmt.Println(easy.RemoveElement([]int{0, 1, 2, 2, 3, 0, 4, 2}, 2))
+	//fmt.Println(easy.MinimumSum(2932))
 
 	// MCMXCIV
 	//fmt.Println(medium.IntToRoman(1994))
